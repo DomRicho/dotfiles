@@ -9,7 +9,11 @@ Framework 13 Laptop
 * 2.8K 120Hz Display 
 * AMD RZ616 Wi-Fi 6E
 
-# Arch and Hyprland (btw)
+# Software
+
+## OS: Arch Linux
+
+## WM: Hyprland
 
 ## Terminal: Kitty
 
