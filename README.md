@@ -40,4 +40,6 @@ OrcaSlicer for 3D Printing
 * Bitwarden
 * Steam
 * OrcaSlicer
+* tuigreet
+* Yazi
 
